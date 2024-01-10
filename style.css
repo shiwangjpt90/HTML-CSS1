@@ -1,0 +1,57 @@
+body{
+    font-family: 'Times New Roman';
+    background-color: black;
+    text-align: center;
+    margin-top: -69;
+    margin-right: 45px;
+    padding: 10%;
+    margin-left: 22px;
+
+}
+.one{
+    font-size: 60px;
+    color: white;
+
+}
+.two{
+    font-size: 60px;
+    color: white;
+    margin-right: 63px;
+
+}
+.three{
+    font-size: 60px;
+    color: white;
+    margin-left: 78px;
+
+}
+.four{
+    font-size: 60px;
+    color: white;
+    margin-left: 70px;
+
+}
+.five{
+    font-size: 30px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 70px;
+
+
+}
+button{
+    border-radius: 4px;
+    background-color: black;
+    height: 40px;
+    width: 110px;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-right: 120px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+span{
+    color: purple;
+}
